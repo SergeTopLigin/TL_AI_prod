@@ -1,0 +1,47 @@
+[
+  {
+    "dateUTC": "2024-01-23T19:45",
+    "match": "Braga - Sporting   1:0",
+    "round": "Semi-finals",
+    "fixture_id": "ASP1153030",
+    "timestamp": 1706039100,
+    "status": "fixed",
+    "TL_id_home": 217,
+    "TL_id_away": 228,
+    "name_home": "Braga",
+    "name_away": "Sporting",
+    "goals_home": 1,
+    "goals_away": 0,
+    "round_winer": 217
+  },
+  {
+    "dateUTC": "2024-01-24T19:45",
+    "match": "Benfica - Estoril   1:1",
+    "round": "Semi-finals",
+    "fixture_id": "ASP1151249",
+    "timestamp": 1706125500,
+    "status": "fixed",
+    "TL_id_home": 211,
+    "TL_id_away": 230,
+    "name_home": "Benfica",
+    "name_away": "Estoril",
+    "goals_home": 1,
+    "goals_away": 1,
+    "round_winer": 230
+  },
+  {
+    "dateUTC": "2024-01-27T19:45",
+    "match": "Braga - Estoril   1:1",
+    "round": "Final",
+    "fixture_id": "ASP1167803",
+    "timestamp": 1706384700,
+    "status": "fixed",
+    "TL_id_home": 217,
+    "TL_id_away": 230,
+    "name_home": "Braga",
+    "name_away": "Estoril",
+    "goals_home": 1,
+    "goals_away": 1,
+    "round_winer": 217
+  }
+]
