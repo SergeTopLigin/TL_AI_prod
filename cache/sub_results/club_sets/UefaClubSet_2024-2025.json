@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Red Bull Salzburg",
+    "id": 571
+  },
+  {
+    "name": "Stade Brestois 29",
+    "id": 106
+  },
+  {
+    "name": "VfB Stuttgart",
+    "id": 172
+  },
+  {
+    "name": "Sparta Praha",
+    "id": 628
+  },
+  {
+    "name": "Barcelona",
+    "id": 529
+  },
+  {
+    "name": "BSC Young Boys",
+    "id": 565
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "id": 168
+  },
+  {
+    "name": "AC Milan",
+    "id": 489
+  },
+  {
+    "name": "Borussia Dortmund",
+    "id": 165
+  },
+  {
+    "name": "Celtic",
+    "id": 247
+  },
+  {
+    "name": "Inter",
+    "id": 505
+  },
+  {
+    "name": "FK Crvena Zvezda",
+    "id": 598
+  },
+  {
+    "name": "PSV Eindhoven",
+    "id": 197
+  },
+  {
+    "name": "Sporting CP",
+    "id": 228
+  },
+  {
+    "name": "Slovan Bratislava",
+    "id": 656
+  },
+  {
+    "name": "Manchester City",
+    "id": 50
+  },
+  {
+    "name": "Arsenal",
+    "id": 42
+  },
+  {
+    "name": "Paris Saint Germain",
+    "id": 85
+  },
+  {
+    "name": "Girona",
+    "id": 547
+  },
+  {
+    "name": "Feyenoord",
+    "id": 209
+  },
+  {
+    "name": "Shakhtar Donetsk",
+    "id": 550
+  },
+  {
+    "name": "Atalanta",
+    "id": 499
+  },
+  {
+    "name": "Aston Villa",
+    "id": 66
+  },
+  {
+    "name": "Bayern München",
+    "id": 157
+  },
+  {
+    "name": "Benfica",
+    "id": 211
+  },
+  {
+    "name": "Atletico Madrid",
+    "id": 530
+  },
+  {
+    "name": "Dinamo Zagreb",
+    "id": 620
+  },
+  {
+    "name": "Monaco",
+    "id": 91
+  },
+  {
+    "name": "Lille",
+    "id": 79
+  },
+  {
+    "name": "Real Madrid",
+    "id": 541
+  },
+  {
+    "name": "Liverpool",
+    "id": 40
+  },
+  {
+    "name": "Bologna",
+    "id": 500
+  },
+  {
+    "name": "RB Leipzig",
+    "id": 173
+  },
+  {
+    "name": "Juventus",
+    "id": 496
+  },
+  {
+    "name": "Sturm Graz",
+    "id": 637
+  },
+  {
+    "name": "Club Brugge KV",
+    "id": 569
+  },
+  {
+    "name": "Ferencvarosi TC",
+    "id": 651
+  },
+  {
+    "name": "Tottenham",
+    "id": 47
+  },
+  {
+    "name": "Lazio",
+    "id": 487
+  },
+  {
+    "name": "Nice",
+    "id": 84
+  },
+  {
+    "name": "Maccabi Tel Aviv",
+    "id": 604
+  },
+  {
+    "name": "FC Midtjylland",
+    "id": 397
+  },
+  {
+    "name": "Olympiakos Piraeus",
+    "id": 553
+  },
+  {
+    "name": "SC Braga",
+    "id": 217
+  },
+  {
+    "name": "Qarabag",
+    "id": 556
+  },
+  {
+    "name": "Malmo FF",
+    "id": 375
+  },
+  {
+    "name": "Real Sociedad",
+    "id": 548
+  },
+  {
+    "name": "Anderlecht",
+    "id": 554
+  },
+  {
+    "name": "Rīgas FS",
+    "id": 4160
+  },
+  {
+    "name": "Galatasaray",
+    "id": 645
+  },
+  {
+    "name": "Slavia Praha",
+    "id": 560
+  },
+  {
+    "name": "Ajax",
+    "id": 194
+  },
+  {
+    "name": "1899 Hoffenheim",
+    "id": 167
+  },
+  {
+    "name": "Dynamo Kyiv",
+    "id": 572
+  },
+  {
+    "name": "Athletic Club",
+    "id": 531
+  },
+  {
+    "name": "AZ Alkmaar",
+    "id": 201
+  },
+  {
+    "name": "Besiktas",
+    "id": 549
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "id": 169
+  },
+  {
+    "name": "IF elfsborg",
+    "id": 372
+  },
+  {
+    "name": "AS Roma",
+    "id": 497
+  },
+  {
+    "name": "FC Porto",
+    "id": 212
+  },
+  {
+    "name": "Manchester United",
+    "id": 33
+  },
+  {
+    "name": "Twente",
+    "id": 415
+  },
+  {
+    "name": "Fenerbahce",
+    "id": 611
+  },
+  {
+    "name": "PAOK",
+    "id": 619
+  },
+  {
+    "name": "FCSB",
+    "id": 559
+  },
+  {
+    "name": "Rangers",
+    "id": 257
+  },
+  {
+    "name": "Lyon",
+    "id": 80
+  },
+  {
+    "name": "Union St. Gilloise",
+    "id": 1393
+  },
+  {
+    "name": "Bodo\\/Glimt",
+    "id": 327
+  },
+  {
+    "name": "Plzen",
+    "id": 567
+  },
+  {
+    "name": "Ludogorets",
+    "id": 566
+  },
+  {
+    "name": "Istanbul Basaksehir",
+    "id": 564
+  },
+  {
+    "name": "Rapid Vienna",
+    "id": 781
+  },
+  {
+    "name": "Guimaraes",
+    "id": 224
+  },
+  {
+    "name": "Celje",
+    "id": 4360
+  },
+  {
+    "name": "1. FC Heidenheim",
+    "id": 180
+  },
+  {
+    "name": "Olimpija Ljubljana",
+    "id": 677
+  },
+  {
+    "name": "Cercle Brugge",
+    "id": 741
+  },
+  {
+    "name": "FC ST. Gallen",
+    "id": 1011
+  },
+  {
+    "name": "FC Astana",
+    "id": 562
+  },
+  {
+    "name": "TSC Backa Topola",
+    "id": 2646
+  },
+  {
+    "name": "Dinamo Minsk",
+    "id": 394
+  },
+  {
+    "name": "Heart Of Midlothian",
+    "id": 254
+  },
+  {
+    "name": "FC Noah",
+    "id": 3684
+  },
+  {
+    "name": "Mlada Boleslav",
+    "id": 640
+  },
+  {
+    "name": "Legia Warszawa",
+    "id": 339
+  },
+  {
+    "name": "Real Betis",
+    "id": 543
+  },
+  {
+    "name": "Molde",
+    "id": 329
+  },
+  {
+    "name": "Larne",
+    "id": 5354
+  },
+  {
+    "name": "Omonia Nicosia",
+    "id": 3402
+  },
+  {
+    "name": "Vikingur Reykjavik",
+    "id": 278
+  },
+  {
+    "name": "Fiorentina",
+    "id": 502
+  },
+  {
+    "name": "The New Saints",
+    "id": 354
+  },
+  {
+    "name": "Chelsea",
+    "id": 49
+  },
+  {
+    "name": "Gent",
+    "id": 631
+  },
+  {
+    "name": "FC Copenhagen",
+    "id": 400
+  },
+  {
+    "name": "Jagiellonia",
+    "id": 336
+  },
+  {
+    "name": "FC Lugano",
+    "id": 606
+  },
+  {
+    "name": "HJK helsinki",
+    "id": 649
+  },
+  {
+    "name": "Petrocub",
+    "id": 2271
+  },
+  {
+    "name": "Pafos",
+    "id": 3403
+  },
+  {
+    "name": "Borac Banja Luka",
+    "id": 3364
+  },
+  {
+    "name": "Panathinaikos",
+    "id": 617
+  },
+  {
+    "name": "Lask Linz",
+    "id": 1026
+  },
+  {
+    "name": "Djurgardens IF",
+    "id": 364
+  },
+  {
+    "name": "Shamrock Rovers",
+    "id": 652
+  },
+  {
+    "name": "Apoel Nicosia",
+    "id": 2247
+  }
+]
