@@ -11,6 +11,7 @@
 associations = open_file("sub_results", "associations.json"),
 предварительно подключив модуль:
 from modules.open_file import open_file.
+Для выполнения последующих инструкций этот модуль не нужен, требуется лишь прописать его подключение в коде.
 
 Напиши функцию UEFA_tourns_RateQuota() в каталоге /logics/modules/tournaments, которая в качестве параметра принимает список (далее: "входящий список") квотируемых турниров UEFA в формате:
     [{
