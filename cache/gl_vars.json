@@ -1,0 +1,45 @@
+{
+"TL_start_date": {
+    "year": 2025,
+    "month": 8,
+    "day": 1,
+    "description": "дата начала TL"
+  },
+"UEFA_group_set_date": {
+    "month": 9,
+    "day": 1,
+    "description": "дата формирования UEFA club set, UEFA group club set, дата начала перетекания рейтинга из предыдущего сезона в текущий для турниров UEFA"
+  },
+"UEFA_playoff_set_date": {
+    "month": 2,
+    "day": 1,
+    "description": "дата формирования UEFA playoff club set"
+  },
+"nat_League_date": {
+    "month": 8,
+    "day": 1,
+    "description": "дата начала перехода рейтинга из предыдущего сезона в текущий для нац лиг"
+  },
+"nat_League_trans_period": {
+    "days": 150,
+    "description": "длительность переходного периода рейтинга из предыдущего сезона в текущий для нац лиг"
+  },
+"nat_Cup_date": {
+    "month": 8,
+    "day": 1,
+    "description": "дата начала перехода рейтинга из предыдущего сезона в текущий для нац кубков"
+  },
+"nat_Cup_trans_period": {
+    "days": 150,
+    "description": "длительность переходного периода рейтинга из предыдущего сезона в текущий для нац кубков"
+  },
+"nat_LCup_date": {
+    "month": 3,
+    "day": 1,
+    "description": "дата начала перехода рейтинга из предыдущего сезона в текущий для нац кубков лиги"
+  },
+"nat_LCup_trans_period": {
+    "days": 150,
+    "description": "длительность переходного периода рейтинга из предыдущего сезона в текущий для нац кубков лиги"
+  }
+}
