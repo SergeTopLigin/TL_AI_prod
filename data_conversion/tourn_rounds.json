@@ -1,0 +1,895 @@
+[
+  {
+    "tourn_short": "UCL",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+        "round_acc": [
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Knockout Round Play-offs",
+        "round_type": "cup2G",
+        "def_positions": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+        "round_acc": [
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "League Stage",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "UEL",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+        "round_acc": [
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Knockout Round Play-offs",
+        "round_type": "cup2G",
+        "def_positions": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+        "round_acc": [
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "League Stage",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "UECL",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "def_positions": [1, 2, 3, 4],
+        "round_type": "cup2G",
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+        "round_acc": [
+          "Knockout Round Play-offs",
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "Knockout Round Play-offs",
+        "round_type": "cup2G",
+        "def_positions": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+        "round_acc": [
+          "League Stage"
+        ]
+      },
+      {
+        "round_calc": "League Stage",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ENG League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ENG Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "5th Round",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "5th Round",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "5th Round",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "5th Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "4th Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "3rd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ENG LCup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "3rd Round",
+          "2nd Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "3rd Round",
+          "2nd Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "3rd Round",
+          "2nd Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "3rd Round",
+          "2nd Round"
+        ]
+      },
+      {
+        "round_calc": "3rd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "2nd Round"
+        ]
+      },
+      {
+        "round_calc": "2nd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ESP League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ESP Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Round of 32",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 32",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 32",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "2nd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "1st Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ITA League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "ITA Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "2nd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "1st Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "GER League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "GER Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "2nd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "1st Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "FRA League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "FRA Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32",
+          "Round of 64"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32",
+          "Round of 64"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Round of 32",
+          "Round of 64"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 32",
+          "Round of 64"
+        ]
+      },
+      {
+        "round_calc": "Round of 32",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 64"
+        ]
+      },
+      {
+        "round_calc": "Round of 64",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "NED League",
+    "rounds": [
+      {
+        "round_calc": "Conference League Play-offs - Final",
+        "round_type": "cup1G",
+        "def_positions": [6, 7],
+        "round_acc": [
+            "Conference League Play-offs - Semi-finals"
+        ]
+      },
+      {
+        "round_calc": "Conference League Play-offs - Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [6, 7, 8, 9],
+        "round_acc": []
+      },
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "NED Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "2nd Round",
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "2nd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "1st Round"
+        ]
+      },
+      {
+        "round_calc": "1st Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "POR League",
+    "rounds": [
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "POR Cup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "4th Round",
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "4th Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "3rd Round"
+        ]
+      },
+      {
+        "round_calc": "3rd Round",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "POR LCup",
+    "rounds": [
+      {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "BEL League",
+    "rounds": [
+      {
+        "round_calc": "Conference League Play-off - Final",
+        "round_type": "cup1G",
+        "def_positions": [5, 7],
+        "round_acc": []
+      },
+      {
+        "round_calc": "Championship group",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6],
+        "round_acc": [
+          "Regular.HU"
+        ]
+      },
+      {
+        "round_calc": "Conference League Play-off",
+        "round_type": "league",
+        "def_positions": [7, 8, 9, 10, 11, 12],
+        "round_acc": [
+          "Regular.HU"
+        ]
+      },
+      {
+        "round_calc": "Relegation Group",
+        "round_type": "league",
+        "def_positions": [13, 14, 15, 16],
+        "round_acc": [
+          "Regular"
+        ]
+      },
+      {
+        "round_calc": "Regular",
+        "round_type": "league",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+        "round_acc": []
+      }
+    ]
+  },
+  {
+    "tourn_short": "BEL Cup",
+    "rounds": [
+            {
+        "round_calc": "Final",
+        "round_type": "cup1G",
+        "def_positions": [1, 2],
+        "round_acc": [
+          "Semi-finals",
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32"
+        ]
+      },
+      {
+        "round_calc": "Semi-finals",
+        "round_type": "cup2G",
+        "def_positions": [1, 2, 3, 4],
+        "round_acc": [
+          "Quarter-finals",
+          "Round of 16",
+          "Round of 32"
+        ]
+      },
+      {
+        "round_calc": "Quarter-finals",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 16",
+          "Round of 32"
+        ]
+      },
+      {
+        "round_calc": "Round of 16",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": [
+          "Round of 32"
+        ]
+      },
+      {
+        "round_calc": "Round of 32",
+        "round_type": "cup1G",
+        "def_positions": [1, 2, 3, 4, 5, 6, 7, 8],
+        "round_acc": []
+      }
+    ]
+  }
+]

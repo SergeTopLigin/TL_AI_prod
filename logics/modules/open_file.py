@@ -29,6 +29,8 @@ def open_file(file_dir, file_name):
             path = "cache/sub_results/round_standings/"
         elif file_dir == "tourn_standings":
             path = "cache/sub_results/tourn_standings/"
+        elif file_dir == "nat_cup_round_ratings":
+            path = "cache/sub_results/nat_cup_round_ratings/"
             
         # открытие файла
         import os
